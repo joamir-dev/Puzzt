@@ -1,7 +1,5 @@
 # Puzzt
 
-This is a simple implementation of the classic **Tetris** game using HTML, CSS, and JavaScript. The game is played on a grid where the player must rotate and place falling blocks to complete full lines.
-
 ## Getting Started
 
 To play the game, simply open the **index.html** file in your web browser. The game will start automatically, and you can control the pieces using the keyboard.
