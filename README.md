@@ -23,5 +23,7 @@ You can control the pieces using the following keys:
 - JavaScript
 
 ## Acknowledgements
+## Acknowledgements
 
-This game is inspired by the classic Tetris game, which was created by Alexey Pajitnov in 1984. Thanks to the original developers for creating this iconic game.
+- This project is inspired by the classic **Tetris** game, created by Alexey Pajitnov in 1984.
+- Thanks to all the game development tutorials and resources that helped in understanding how to structure and build a Tetris game.
